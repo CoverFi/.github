@@ -6,13 +6,11 @@
 
 🌐 Website: 
 
-🖥️ Frontend: 
+🖥️ Frontend: https://github.com/CoverFi/coverfi-app
 
-💡 Contract: 
+💡 Contract: https://github.com/CoverFi/insurance-contracts
 
-🔁 Subgraph: 
-
-🖌️ UI/UX Design: 
+🖌️ UI/UX Design: https://www.figma.com/file/IUFQT97MRyI53fhfLpJ8Uw/ETH-SF?node-id=0%3A1
 
 ## Motivations
 
