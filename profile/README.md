@@ -4,7 +4,7 @@
 
 
 
-🌐 Website: 
+🌐 Website: https://coverfi.xyz
 
 🖥️ Frontend: https://github.com/CoverFi/coverfi-app
 
