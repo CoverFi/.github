@@ -1,6 +1,7 @@
 # CoverFi
 
-<img width="1500" alt="Banner (2)" src="https://user-images.githubusercontent.com/90386676/200092622-d586486b-60fc-4bec-bc81-f5f6a77d9758.png">
+<img width="1500" alt="Banner (3)" src="https://user-images.githubusercontent.com/90386676/200103972-0323254a-e28e-4722-be89-3240e93e18cd.png">
+
 
 🌐 Website: 
 
