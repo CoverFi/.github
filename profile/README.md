@@ -13,3 +13,5 @@
 🖌️ UI/UX Design: 
 
 ## Motivations
+
+## Solution
